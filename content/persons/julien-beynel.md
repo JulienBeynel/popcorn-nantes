@@ -4,7 +4,7 @@
 
 # REQUIS
 # Le titre qui te refléte "Expert JavaScript", "Développeur web junior"
-titre: Développeur PHP / Javascript
+titre: Développeur FullStack Javascript / PHP
 
 # OPTIONNEL
 # Un sous-titre de ton choix si tu as quelque chose à ajouter
@@ -53,12 +53,15 @@ domaines_metiers:
 # Les technologies que tu utilises
 # Une technologe peut être une langage, un framework, une librairie, un CMS ...
 technologies:
-  - PHP
   - JavaScript
-  - jQuery
+  - React
+  - React Native
+  - VueJS
+  - Vuetify
   - Angular
   - Ionic
   - NodeJS
+  - PHP
   - HTML
   - CSS
   - Symfony
@@ -74,7 +77,7 @@ technologies:
 # La coloration syntaxique du code est supportée.
 ---
 
-Durant mes 7 années d'expériences, j'ai participé à plusieurs projets en développement web full-stack.
+Durant mes 8 années d'expériences, j'ai participé à plusieurs projets en développement web full-stack.
 
 J'apporte mon enthousiasme et ma créativité à proposer et mettre en œuvre des solutions en développement web adaptées à des environnements innovants et complexes.
 
